@@ -1,7 +1,7 @@
 # SYNERGY INNOVATIONS_Reboot
 RebootBMSITM-TEAM-09 SYNERGY INNOVATIONS
 
-****Title: Quantum-Blockchain Integrated Supply Chain for Secure and Transparent Vaccine Transportation***
+#****Title: Quantum-Blockchain Integrated Supply Chain for Secure and Transparent Vaccine Transportation***
 
 
 *****Theme Alignment: AI & Data Science for Social Impact, Healthcare Engineering
@@ -13,16 +13,16 @@ For Social Impact: The solution ensures equitable vaccine distribution, prevents
 
 For Healthcare Engineering: It leverages advanced technologies to maintain temperature integrity, monitor supply chains in real-time, and meet stringent regulatory compliance for safe medical logistics.
 
-***Aim***
+#***Aim***
 Leverage Blockchain technology for traceability, transparency, and auditability, combined with Quantum Communication (specifically Quantum Key Distribution - QKD) for ultra-secure data transmission in the end-to-end vaccine supply chain, ensuring safety, authenticity, and real-time integrity monitoring during transportation.
 
 
-****Description****
+#****Description****
 Cold supply chain management refers to the transportation and storage of temperature-sensitive products such as vaccines, pharmaceuticals, fresh food, and biotechnology material under controlled conditions to maintain product quality and efficacy. The proposed hybrid system integrates Blockchain and Quantum Communication to enhance security, efficiency, and trust in vaccine transportation.
 
 
 
-***Methodology****
+#***Methodology****
 •	Qiskit: A quantum computing framework to simulate quantum circuits and  algorithms.
 •	Blockchain: A Python-based blockchain framework that supports quantum key exchange and enhanced security mechanisms.
 •	Quantum Key Distribution (QKD): A protocol to securely exchange keys between nodes in the blockchain network, ensuring that keys cannot be intercepted or tampered with, as it is based on the quantum mechanics “No-Cloning” theorem. 
@@ -88,14 +88,14 @@ Fig. 1. Flowchart of Quantum Blockchain advantages and its security aspects.
 •	Use open-source dashboards (Grafana/Kibana) for monitoring
 
 
-🎯 Expected Outcomes
+🎯# Expected Outcomes
 •	End-to-End Traceability: Every vaccine unit is tracked from origin to destination.
 •	Tamper-Proof Records: Blockchain ensures data integrity and auditability.
 •	Real-Time Monitoring: IoT sensors detect and report anomalies instantly.
 •	Quantum-Safe Security: PQC protects sensitive data against future quantum threats.
 •	Scalable Architecture: Ready for phased upgrades to full QKD and advanced ML.
 ________________________________________
-**Deployment Plan**
+#**Deployment Plan**
 
 Component	                    Strategy	                                                Estimated Cost (₹)
 Blockchain Infrastructure	    Use Hyperledger Besu or MultiChain with cloud nodes	            8–12 lakhs
@@ -105,14 +105,6 @@ AI/Analytics Layer	            Use rule-based detection and open-source dashboar
 Integration & Middleware	    Lightweight APIs and secure firmware updates	                5–7 lakhs
 Contingency & Testing	        Pilot testng, calibration, and fallback systems	                5–10 lakhs
                                                                                     Total		43–65 lakhs
-Component	Strategy	Estimated Cost (₹)
-Blockchain Infrastructure	Use Hyperledger Besu or MultiChain with cloud nodes	8–12 lakhs
-Quantum Communication	Replace QKD with post-quantum cryptography (PQC) initially	5–8 lakhs
-IoT Layer	Deploy sensors only at critical points; use LoRaWAN/NB-IoT	15–20 lakhs
-AI/Analytics Layer	Use rule-based detection and open-source dashboards	5–8 lakhs
-Integration & Middleware	Lightweight APIs and secure firmware updates	5–7 lakhs
-Contingency & Testing	Pilot testing, calibration, and fallback systems	5–10 lakhs
-Total		43–65 lakhs
 
 Add-on Component	Estimated Cost (₹)
 Industrial-grade sensors	10–15 lakhs
@@ -120,14 +112,14 @@ Advanced ML pipelines	10–12 lakhs
 Partial QKD deployment	15–20 lakhs
 
 
-Expected Outcomes
+#Expected Outcomes
 • Increased security and transparency in vaccine supply chains.
 • Prevention of counterfeit vaccine distribution.
 • Real-time anomaly detection for better operational decisions.
 • Long-term data security using quantum-safe encryption.
 • Scalable architecture for adoption in other healthcare logistics domains.
 
-**References**
+#**References**
 
 [1] S. V. Naveen Prasanth, M. Aravind, S. Dhanraj, B. Durga, and M. Karthi Priya, “IoT for Efficient Vaccine Transportation and Monitoring,” International Journal of Novel Research and Development, vol. 4, no. 199, pp. 1–6, Apr. 2025. [Online]. Available: https://www.ijnrd.org/papers/IJNRD2504199.pdf
 
