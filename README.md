@@ -126,14 +126,25 @@ Expected Outcomes
 • Real-time anomaly detection for better operational decisions.
 • Long-term data security using quantum-safe encryption.
 • Scalable architecture for adoption in other healthcare logistics domains.
-References
+
+**References**
+
 [1] S. V. Naveen Prasanth, M. Aravind, S. Dhanraj, B. Durga, and M. Karthi Priya, “IoT for Efficient Vaccine Transportation and Monitoring,” International Journal of Novel Research and Development, vol. 4, no. 199, pp. 1–6, Apr. 2025. [Online]. Available: https://www.ijnrd.org/papers/IJNRD2504199.pdf
+
 [2] Z. Yang, H. Alfauri, B. Farkiani, R. Jain, R. Di Pietro, and A. Erbad, “A Survey and Comparison of Post-Quantum and Quantum Blockchains,” Washington University in St. Louis, 2024. [Online]. Available: https://www.cse.wustl.edu/~jain/papers/ftp/qbpqb.pdf
+
 [3] “Quantum Chain of Things: The Quantum Triad – Integrating Blockchain, IoT and Quantum Computing,” Proc. Int. Conf. on Computer Vision and Internet of Things (ICCVIoT), Dec. 2023. [Online]. Available: https://ieeexplore.ieee.org/abstract/document/10401104
+
 [4] M. Schindler et al., “Post-Quantum Cryptography in Use: Empirical Analysis of the TLS Handshake Performance,” Proc. IEEE/IFIP Network Operations and Management Symposium (NOMS), pp. 1–6, Apr. 2022. DOI: 10.1109/NOMS54207.2022.9789913
+
 [5] S. Kumar, R. D. Raut, P. Priyadarshinee, S. K. Mangla, U. Awan, and B. E. Narkhede, “The Impact of IoT on the Performance of Vaccine Supply Chain Distribution in the COVID-19 Context,” IEEE Transactions on Engineering Management, vol. 69, no. 4, pp. 9760292, Aug. 2024. DOI: 10.1109/TEM.2022.3157625
+
 [6] A. Kumar, O. J. Shukla, and S. M. Pandey, “Artificial Intelligence and Vaccine Supply Chain: Analysis of the Adoption Challenges in the Indian Context,” Int. J. Intelligent Enterprise, vol. 12, no. 3/4, pp. 288–304, Jul. 2025. DOI: 10.1504/IJIE.2025.147690
+
 [7] H. Choudhury, R. M. P. Raj, and N. R. Yadav, “Blockchain-Based Secure Framework for Cold Chain Monitoring in Vaccine Logistics,” IEEE Access, vol. 11, pp. 55812–55824, 2023. DOI: 10.1109/ACCESS.2023.3278512
+
 [8] L. Gyongyosi and S. Imre, “A Survey on Quantum Computing Technology,” Computer Science Review, vol. 31, pp. 51–71, 2019. DOI: 10.1016/j.cosrev.2018.11.002
+
 [9] J. Leng, Y. Ruan, and W. Jiang, “Blockchain-Enabled Sustainable Supply Chain: Architecture, Applications, and Challenges,” IEEE Transactions on Engineering Management, vol. 69, no. 4, pp. 1358–1374, Aug. 2022. DOI: 10.1109/TEM.2020.3003261
+
 [10] A. K. Sangaiah, M. Li, and M. D. Alshehri, “IoT-Enabled Smart Logistics Using Blockchain for Secure and Transparent Supply Chain,” IEEE Internet of Things Journal, vol. 9, no. 15, pp. 13943–13955, Aug. 2022. DOI: 10.1109/JIOT.2022.3142539
