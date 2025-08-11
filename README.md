@@ -1,5 +1,5 @@
 # SYNERGY INNOVATIONS_Reboot
-RebootBMSITM-TEAM-09 SYNERGY INNOVATIONS
+TEAM-09 SYNERGY INNOVATIONS
 
 #****Title: Quantum-Blockchain Integrated Supply Chain for Secure and Transparent Vaccine Transportation***
 
