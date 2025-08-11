@@ -73,7 +73,7 @@ Technical Implementation
 •	Quantum-Safe Security: PQC protects sensitive data against future quantum threats.
 •	Scalable Architecture: Ready for phased upgrades to full QKD and advanced ML.
 ________________________________________
-Deployment Plan – ₹1 Crore Budget Model
+Deployment Plan 
 Component	Strategy	Estimated Cost (₹)
 Blockchain Infrastructure	Use Hyperledger Besu or MultiChain with cloud nodes	8–12 lakhs
 Quantum Communication	Replace QKD with post-quantum cryptography (PQC) initially	5–8 lakhs
@@ -82,11 +82,21 @@ AI/Analytics Layer	Use rule-based detection and open-source dashboards	5–8 lak
 Integration & Middleware	Lightweight APIs and secure firmware updates	5–7 lakhs
 Contingency & Testing	Pilot testing, calibration, and fallback systems	5–10 lakhs
 Total		43–65 lakhs
-Optional Add-ons (If Budget Allows)
+Component	Strategy	Estimated Cost (₹)
+Blockchain Infrastructure	Use Hyperledger Besu or MultiChain with cloud nodes	8–12 lakhs
+Quantum Communication	Replace QKD with post-quantum cryptography (PQC) initially	5–8 lakhs
+IoT Layer	Deploy sensors only at critical points; use LoRaWAN/NB-IoT	15–20 lakhs
+AI/Analytics Layer	Use rule-based detection and open-source dashboards	5–8 lakhs
+Integration & Middleware	Lightweight APIs and secure firmware updates	5–7 lakhs
+Contingency & Testing	Pilot testing, calibration, and fallback systems	5–10 lakhs
+Total		43–65 lakhs
+
 Add-on Component	Estimated Cost (₹)
 Industrial-grade sensors	10–15 lakhs
 Advanced ML pipelines	10–12 lakhs
 Partial QKD deployment	15–20 lakhs
+
+
 Expected Outcomes
 • Increased security and transparency in vaccine supply chains.
 • Prevention of counterfeit vaccine distribution.
